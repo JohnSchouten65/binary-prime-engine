@@ -67,6 +67,54 @@
 			"group": "build",
 			"isBackground": false,
 			"problemMatcher": []
+		},
+		{
+			"label": "Run Prime Explorer",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"prime_explorer.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Binary Prime Engine (English)",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine_en.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Prime Engine Pro (English)",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine_pro_en.py",
+				"--start",
+				"1",
+				"--limit",
+				"100"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Prime Engine Pro (English) Interactive",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine_pro_en.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
 		}
 	]
 }

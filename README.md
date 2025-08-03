@@ -172,3 +172,47 @@ Link Progetto: [https://github.com/JohnSchouten65/binary-prime-engine](https://g
 ---
 
 *"In matematica, la bellezza è la prima prova della verità." - G.H. Hardy*
+
+## 🎮 Prime Explorer - Complete Research Tool
+
+The **Prime Explorer** (`prime_explorer.py`) is a comprehensive, interactive menu system for exploring prime numbers with advanced features:
+
+### 🔍 Search & Discovery
+- **Find Next/Previous Prime**: Locate primes relative to any number
+- **Nth Prime Finder**: Find the prime at any position
+- **Range Search**: Find all primes in a specific range  
+- **Twin Primes**: Find prime pairs with difference of 2
+- **Cousin Primes**: Find prime pairs with difference of 4
+- **Random Prime Generator**: Generate random primes in custom ranges
+
+### 🧮 Calculations & Analysis  
+- **Prime Arithmetic**: Add, subtract, multiply primes
+- **Goldbach Conjecture**: Test even numbers as sums of two primes
+- **Prime Counting**: Count primes up to any limit with π(x)
+- **Prime Number Theorem**: Compare actual vs theoretical distributions
+
+### 🎲 Games & Challenges
+- **Prime Guessing Game**: Interactive number guessing with hints
+- **Speed Challenge**: Fast prime/composite identification
+- **Pattern Recognition**: Learn prime patterns through play
+
+### 🌟 Special Prime Types
+- **Mersenne Primes**: Find primes of form 2ⁿ - 1
+- **Fermat Primes**: Explore the 5 known Fermat primes
+- **Palindromic Primes**: Numbers that read the same forwards/backwards
+
+### Usage
+```bash
+# Interactive menu system
+python prime_explorer.py
+
+# Or use VS Code task
+Cmd+Shift+P → "Tasks: Run Task" → "Run Prime Explorer"
+```
+
+### Features
+- 🎯 **User-Friendly Interface**: Clear menus and navigation
+- 💾 **Favorites System**: Save and manage favorite primes
+- 📊 **Performance Metrics**: Timing and statistics for all operations
+- 🔢 **Binary Visualization**: See prime numbers in binary format
+- 🏆 **Achievement System**: Track your prime exploration progress

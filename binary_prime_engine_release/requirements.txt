@@ -1,0 +1,27 @@
+# Binary Prime Engine - Requirements
+# ===================================
+# 
+# Questo progetto utilizza solo librerie standard di Python
+# Non sono necessarie dipendenze esterne aggiuntive
+#
+# Requisiti minimi:
+# - Python 3.8+
+#
+# Librerie standard utilizzate:
+# - json (serializzazione dati)
+# - time (performance timing)
+# - logging (sistema di log)
+# - argparse (interfaccia CLI)
+# - signal (gestione interruzioni)
+# - pathlib (gestione percorsi)
+# - typing (type hints)
+# - dataclasses (strutture dati)
+# - contextlib (context managers)
+# - threading (cache thread-safe)
+# - collections (deque per cache LRU)
+# - math (funzioni matematiche)
+#
+# Per sviluppo e testing opzionali:
+# pytest>=7.0.0
+# black>=22.0.0
+# mypy>=0.991

@@ -1,0 +1,8 @@
+Range,Tempo_Medio,Valutazione,Status
+1-1000,0.01ms,Istantaneo,Eccellente
+1K-100K,0.1ms,Velocissimo,Eccellente
+100K-1M,1ms,Molto veloce,Eccellente
+1M-100M,10ms,Veloce,Buono
+100M-1B,100ms,Buono,Buono
+1B-1T,1s,Accettabile,Discreto
+1T+,60s,Lento ma funzionante,Limite

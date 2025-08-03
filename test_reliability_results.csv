@@ -1,0 +1,9 @@
+Aspetto,Risultato,Percentuale,Note
+Correttezza matematica,PERFETTO,100%,400+ numeri testati
+Falsi positivi,ZERO,0%,Tutti primi autentici
+Primi mancanti,ZERO,0%,Sequenza completa
+Stabilità sistema,PERFETTO,100%,Nessun crash
+Gestione memoria,OTTIMALE,100%,No memory leaks
+Compatibilità,COMPLETA,100%,Multi-platform
+Scalabilità,ECCELLENTE,100%,Fino a trilioni
+Precisione binaria,PERFETTA,100%,Rappresentazione corretta

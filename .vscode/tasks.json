@@ -1,0 +1,61 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Binary Prime Engine",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Prime Engine Pro",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine_pro.py",
+				"--start",
+				"1",
+				"--limit",
+				"100"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Prime Engine Pro (Interactive)",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"binary_prime_engine_pro.py"
+			],
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Run Benchmark",
+			"type": "shell",
+			"command": "/Users/cscostruzioni/cartella senza nome/.venv/bin/python",
+			"args": [
+				"benchmark.py"
+			],
+			"group": "test",
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Prime Engine Utility",
+			"type": "shell",
+			"command": "./utility.sh",
+			"group": "build",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

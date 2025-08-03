@@ -24,7 +24,7 @@ Un motore avanzato per la generazione infinita di numeri primi con analisi dei p
 ### Setup Rapido
 ```bash
 # Clona il repository
-git clone https://github.com/[YOUR_USERNAME]/binary-prime-engine.git
+git clone https://github.com/JohnSchouten65/binary-prime-engine.git
 cd binary-prime-engine
 
 # Crea ambiente virtuale
@@ -165,9 +165,9 @@ Distribuito sotto licenza MIT. Vedi `LICENSE` per maggiori informazioni.
 
 ## 👨‍💻 Autore
 
-**[Your Name]** - [@your_username](https://github.com/your_username)
+**Binary-Prime-Engine** - [@JohnSchouten65](https://github.com/JohnSchouten65)
 
-Link Progetto: [https://github.com/your_username/binary-prime-engine](https://github.com/your_username/binary-prime-engine)
+Link Progetto: [https://github.com/JohnSchouten65/binary-prime-engine](https://github.com/JohnSchouten65/binary-prime-engine)
 
 ---
 
